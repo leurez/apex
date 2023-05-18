@@ -1,0 +1,12 @@
+# compile
+build
+# thirdparty
+thirdparty
+!thirdparty/CMakeLists.txt
+# bin
+*.a
+*.so
+*.swp
+*.exe
+*.lib
+*.pyc
