@@ -35,7 +35,7 @@
 #include <iostream>
 #include <mutex>
 #include <sstream>
-#include "grpc_client.h"
+#include "client.h"
 
 namespace apex { namespace client {
 namespace {
